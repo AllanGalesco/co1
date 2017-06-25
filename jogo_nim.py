@@ -2,11 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Gabarito - Jogo NIM
-Introdução à Ciência da Computação com Python by Universidade de São Paulo
-
 José A. Tula
-
 """
 def campeonato():
     i = 1
