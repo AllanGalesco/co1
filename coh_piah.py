@@ -2,9 +2,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Gabarito - COH-PIAH
-Introdução à Ciência da Computação com Python by Universidade de São Paulo
-
 José A. Tula
 """
 import re
