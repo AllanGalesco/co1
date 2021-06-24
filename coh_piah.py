@@ -135,7 +135,7 @@ def avalia_textos(textos, ass_cp):
     c = 1
 
     for i in range(1, len(inf)):
-        if (menor < inf[i]):
+        if (menor > inf[i]):
             c = i
     return c
 
